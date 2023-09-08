@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     siteName: 'Fenrir Data Analytics',
     images: [
       {
-        url: '/protrait_logo.png',
+        url: '/og_protrait_logo.png',
       },
     ],
   },
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     creator: '@FenrirDataAnalytics',
     creatorId: '',
     images: {
-      url: '/protrait_logo.png',
+      url: '/og_protrait_logo.png',
       alt: 'Fenrir Data Analytics Logo',
     },
   },
