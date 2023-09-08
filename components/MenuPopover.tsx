@@ -13,17 +13,17 @@ const MenuPopver = () => (
     </Popover.Trigger>
     <Popover.Content className='w-screen max-w-sm sm:max-w-xl'>
       <Flex gap='3' direction='column'>
-        <Link href='/about' className='hover:opacity-75'>
+        <a href='#about' className='hover:opacity-75'>
           <Text size='4'>ABOUT US</Text>
-        </Link>
+        </a>
         <Separator size='4' />
-        <Link href='/services' className='hover:opacity-75'>
+        <a href='#services' className='hover:opacity-75'>
           <Text size='4'>SERVICES</Text>
-        </Link>
+        </a>
         <Separator size='4' />
-        <Link href='/contact' className='hover:opacity-75'>
+        <a href='#contact' className='hover:opacity-75'>
           <Text size='4'>CONTACT US</Text>
-        </Link>
+        </a>
       </Flex>
     </Popover.Content>
   </Popover.Root>
