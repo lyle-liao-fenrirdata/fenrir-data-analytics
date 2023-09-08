@@ -23,9 +23,6 @@ export default function RootLayout({
 }) {
   return (
     <html suppressHydrationWarning className='scroll-smooth'>
-      <head>
-        <link rel='icon' href='/favicon.ico' sizes='any' />
-      </head>
       <body className='relative'>
         <div className='mx-auto w-full max-w-screen-2xl'>
           <Theme accentColor='ruby' panelBackground='solid' radius='small'>
