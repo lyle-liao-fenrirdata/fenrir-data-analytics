@@ -27,7 +27,7 @@ import IntegratedInAllWeDo from '../components/svgs/IntegratedInAllWeDo';
 import AlwaysAccountable from '../components/svgs/AlwaysAccountable';
 
 export const metadata: Metadata = {
-  metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
+  metadataBase: new URL('https://fenrirdata.com/'),
   title: 'Fenrir Data Analytics',
   description:
     'Fenrir Data Analytics is a leading data analytics company that provides data analytics services for all industries.',
