@@ -132,7 +132,7 @@ export default function RootLayout({
                   className='flex flex-row items-center gap-4 rounded hover:bg-slate-50 hover:opacity-70 active:bg-slate-100 active:opacity-90'
                 >
                   <EnvelopeClosedIcon />
-                  <span>director@fenrirdata.com</span>
+                  <span>support@fenrirdata.com</span>
                 </a>
                 <a
                   href='https://goo.gl/maps/C7adVEgC6es9goeW7'
